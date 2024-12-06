@@ -14,8 +14,7 @@ img{
 body{
     font-family: "Outfit", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: hsl(212, 45%, 89%);
-    min-width: 375px;
-    max-width: 1440px;
+   
     
 }
 
@@ -52,7 +51,7 @@ h3{
 }
 
 span{
-    white-space: nowrap;
+    display: block;
 }
 
 
