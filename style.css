@@ -32,6 +32,7 @@ p{
 }
 
 h2{
+    font-size: 22px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     margin-bottom: 15px;
@@ -40,7 +41,7 @@ h2{
 .container{
     width: 300px;
     max-width: 350px;
-    padding: 5px;
+    padding: 15px;
     border-radius: 10px;
     background-color: hsl(0, 0%, 100%);
     margin: 30px 20px;
